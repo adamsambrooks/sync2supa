@@ -6,7 +6,10 @@
       "Bash(npm run:*)",
       "Bash(ts-node:*)",
       "Bash(npx ts-node src/authorizeWithCode.ts \"4/0AVGzR1DJqROGoNf2FhBkN8s_NVv8hP9uXBiXZWTf61jD-wfR_uuHW8OYnt0dTdOtkBblZw\")",
-      "Bash(npx ts-node:*)"
+      "Bash(npx ts-node:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
