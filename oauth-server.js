@@ -22,7 +22,7 @@ const server = http.createServer((req, res) => {
   }
 });
 
-const PORT = 80;
+const PORT = 3000;
 server.listen(PORT, () => {
   console.log(`OAuth callback server running on http://localhost:${PORT}`);
   console.log('Waiting for authorization callback...');
